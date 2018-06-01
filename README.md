@@ -1,2 +1,1 @@
-# longruninc.github.io
-home page for
+[homepage](../blob/master/hompage/index2.html)
